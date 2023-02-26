@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flávio Correia</h1>
 <h3 align="center">A passionate backtend developer from Cape Verde</h3>
 
-- 🔭 I’m currently working on **Xlera**
+- 🔭 I’m currently coloborating on **Xlera**
 
 - 💬 Ask me about **html, css,javacript, java, C ...**
 
