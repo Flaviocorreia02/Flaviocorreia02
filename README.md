@@ -44,7 +44,7 @@ Sou um programador **Fullstack** apaixonado por tecnologia, com experiência no 
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flaviocorreia02\&show_icons=true\&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Flaviocorreia02&show_icons=true&theme=radical)
 
 ---
 
