@@ -42,12 +42,6 @@ Sou um programador **Fullstack** apaixonado por tecnologia, com experiência no 
 
 ---
 
-## 📊 Estatísticas
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Flaviocorreia02&show_icons=true&theme=radical)
-
----
-
 ## 📫 Como me contactar
 
 * 📧 Email: [flaviojesje@gmail.com](mailto:flaviojesje@gmail.com)
